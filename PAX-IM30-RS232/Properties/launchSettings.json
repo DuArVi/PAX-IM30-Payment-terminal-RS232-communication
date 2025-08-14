@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PAX-IM30-RS232": {
+      "commandName": "Project",
+      "commandLineArgs": "COM12 115200"
+    }
+  }
+}
